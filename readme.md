@@ -13,8 +13,5 @@ Clone the git repo — `git clone https://github.com/srabeat/webapp-boilerplate.
   * [`Modernizr`](https://modernizr.com/) for feature detection
   * [`Bootstrap`](http://getbootstrap.com/)
 
- 
- 
- 
- ## License
+## License
 The code is available under the [MIT license](LICENSE.txt).
